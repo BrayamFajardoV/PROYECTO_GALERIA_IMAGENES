@@ -1,0 +1,13 @@
+body{
+    display: flex;  
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    min-height: 100%;
+    padding: 5rem;
+}
+h4{
+    display: flex;
+    justify-content: center;
+    padding-bottom: 2rem;
+}
